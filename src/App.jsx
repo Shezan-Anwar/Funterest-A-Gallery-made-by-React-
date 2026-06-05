@@ -60,7 +60,7 @@ const App = () => {
         setUserData([])
        
       }} 
-      className='bg-red-600 text-white font-semibold h-12 w-15'>Next</button>
+      className='bg-red-600 text-white font-semibold h-12 w-15 active:scale-95'>Next</button>
      </div>
     </div>
   )
